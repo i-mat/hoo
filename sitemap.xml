@@ -3,15 +3,15 @@
 
     <channel>
         <title>Andy Sun's World</title>
-        <link>http://localhost:4000</link>
-        <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml" />
+        <link>http://localhost:4000/hoo</link>
+        <atom:link href="http://localhost:4000/hoo/sitemap.xml" rel="self" type="application/rss+xml" />
         <description>Andy Say Hi to World</description>
         <lastBuildDate>Fri, 15 Apr 2022 16:28:25 +0800</lastBuildDate>
         
         <item>
             <title>Create github blog by jekyll</title>
             <link>
-                http://localhost:4000/front_others/index_posts/2022/03/23/JekyllBlog.html
+                http://localhost:4000/hoo/front_others/index_posts/2022/03/23/JekyllBlog.html
             </link>
             <description>
                 &lt;h1 id=&quot;1jekyll-introduction&quot;&gt;1,Jekyll introduction&lt;/h1&gt;
@@ -24,14 +24,14 @@
             </description>
             <pubDate>Wed, 23 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/front_others/index_posts/2022/03/23/JekyllBlog.html
+                http://localhost:4000/hoo/front_others/index_posts/2022/03/23/JekyllBlog.html
             </guid>
         </item>
         
         <item>
             <title>KM  IOT  Socket  Framework</title>
             <link>
-                http://localhost:4000/projects/index_projects/2022/03/20/KMIOTFrame.html
+                http://localhost:4000/hoo/projects/index_projects/2022/03/20/KMIOTFrame.html
             </link>
             <description>
                 &lt;h1 id=&quot;the-underlying-framework-of-the-server-corresponding-to-the-new-version-of-the-charging-pile&quot;&gt;The underlying framework of the server corresponding to the new version of the charging pile&lt;/h1&gt;
@@ -42,14 +42,14 @@
             </description>
             <pubDate>Sun, 20 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/index_projects/2022/03/20/KMIOTFrame.html
+                http://localhost:4000/hoo/projects/index_projects/2022/03/20/KMIOTFrame.html
             </guid>
         </item>
         
         <item>
             <title>Apps for Heat Shoes</title>
             <link>
-                http://localhost:4000/projects/index_projects/2022/03/19/HeatApp.html
+                http://localhost:4000/hoo/projects/index_projects/2022/03/19/HeatApp.html
             </link>
             <description>
                 &lt;h1 id=&quot;description&quot;&gt;Description&lt;/h1&gt;
@@ -66,224 +66,224 @@
             </description>
             <pubDate>Sat, 19 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/index_projects/2022/03/19/HeatApp.html
+                http://localhost:4000/hoo/projects/index_projects/2022/03/19/HeatApp.html
             </guid>
         </item>
         
         <item>
             <title>BikeSharing System</title>
             <link>
-                http://localhost:4000/projects/index_projects/2022/03/18/BikeSharing.html
+                http://localhost:4000/hoo/projects/index_projects/2022/03/18/BikeSharing.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Fri, 18 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/index_projects/2022/03/18/BikeSharing.html
+                http://localhost:4000/hoo/projects/index_projects/2022/03/18/BikeSharing.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/08/KM.html
+                http://localhost:4000/hoo/projects/2022/03/08/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Tue, 08 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/08/KM.html
+                http://localhost:4000/hoo/projects/2022/03/08/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/07/KM.html
+                http://localhost:4000/hoo/projects/2022/03/07/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Mon, 07 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/07/KM.html
+                http://localhost:4000/hoo/projects/2022/03/07/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/06/KM.html
+                http://localhost:4000/hoo/projects/2022/03/06/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Sun, 06 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/06/KM.html
+                http://localhost:4000/hoo/projects/2022/03/06/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/05/KM.html
+                http://localhost:4000/hoo/projects/2022/03/05/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Sat, 05 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/05/KM.html
+                http://localhost:4000/hoo/projects/2022/03/05/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/04/KM.html
+                http://localhost:4000/hoo/projects/2022/03/04/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Fri, 04 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/04/KM.html
+                http://localhost:4000/hoo/projects/2022/03/04/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/03/KM.html
+                http://localhost:4000/hoo/projects/2022/03/03/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Thu, 03 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/03/KM.html
+                http://localhost:4000/hoo/projects/2022/03/03/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/02/KM.html
+                http://localhost:4000/hoo/projects/2022/03/02/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Wed, 02 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/02/KM.html
+                http://localhost:4000/hoo/projects/2022/03/02/KM.html
             </guid>
         </item>
         
         <item>
             <title>km sharing</title>
             <link>
-                http://localhost:4000/projects/2022/03/01/KM.html
+                http://localhost:4000/hoo/projects/2022/03/01/KM.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Tue, 01 Mar 2022 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/projects/2022/03/01/KM.html
+                http://localhost:4000/hoo/projects/2022/03/01/KM.html
             </guid>
         </item>
         
         <item>
             <title>17</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/17/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/17/RN.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Fri, 17 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/17/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/17/RN.html
             </guid>
         </item>
         
         <item>
             <title>16</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/16/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/16/RN.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Thu, 16 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/16/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/16/RN.html
             </guid>
         </item>
         
         <item>
             <title>15</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/15/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/15/RN.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Wed, 15 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/15/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/15/RN.html
             </guid>
         </item>
         
         <item>
             <title>14</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/14/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/14/RN.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Tue, 14 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/14/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/14/RN.html
             </guid>
         </item>
         
         <item>
             <title>13</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/13/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/13/RN.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Mon, 13 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/13/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/13/RN.html
             </guid>
         </item>
         
         <item>
             <title>12</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/12/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/12/RN.html
             </link>
             <description>
                 &lt;p&gt;In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteri...
             </description>
             <pubDate>Sun, 12 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/12/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/12/RN.html
             </guid>
         </item>
         
         <item>
             <title>11_网络通讯</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/11/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/11/RN.html
             </link>
             <description>
                 
@@ -291,14 +291,14 @@
             </description>
             <pubDate>Sat, 11 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/11/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/11/RN.html
             </guid>
         </item>
         
         <item>
             <title>10_Redux</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/10/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/10/RN.html
             </link>
             <description>
                 &lt;p&gt;为了帮助大家快速上手什么是Redux开发，在这本节中将向大家介绍什么是Redux开发所需要的[一些什么是Redux必备基础以及高级知识。&lt;/p&gt;
@@ -313,14 +313,14 @@
             </description>
             <pubDate>Fri, 10 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/10/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/10/RN.html
             </guid>
         </item>
         
         <item>
             <title>09_Flatlist</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/09/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/09/RN.html
             </link>
             <description>
                 &lt;p&gt;在APP开发过程中，列表可谓是页面最重要的一种展现形式了，几乎每一个APP都离不了列表，那么在这篇文章中将向大家分享在React Native中该如何实现列表，以及FlatList的原理和实用指南。&lt;/p&gt;
@@ -333,14 +333,14 @@
             </description>
             <pubDate>Thu, 09 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/09/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/09/RN.html
             </guid>
         </item>
         
         <item>
             <title>08_drawerN avigator&swithNavigator</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/08/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/08/RN.html
             </link>
             <description>
                 &lt;h2 id=&quot;createswitchnavigator&quot;&gt;createSwitchNavigator&lt;/h2&gt;
@@ -354,14 +354,14 @@
             </description>
             <pubDate>Wed, 08 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/08/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/08/RN.html
             </guid>
         </item>
         
         <item>
             <title>07_createTopNavigator</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/07/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/07/RN.html
             </link>
             <description>
                 &lt;p&gt;这篇文章将向大家分享createMaterialTopTabNavigator的一些开发指南和实用技巧。&lt;/p&gt;
@@ -375,14 +375,14 @@
             </description>
             <pubDate>Tue, 07 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/07/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/07/RN.html
             </guid>
         </item>
         
         <item>
             <title>06_createStackNavigator</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/06/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/06/RN.html
             </link>
             <description>
                 &lt;h1 id=&quot;createstacknavigator&quot;&gt;createStackNavigator&lt;/h1&gt;
@@ -397,14 +397,14 @@
             </description>
             <pubDate>Mon, 06 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/06/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/06/RN.html
             </guid>
         </item>
         
         <item>
             <title>05_react-navigation</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/05/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/05/RN.html
             </link>
             <description>
                 &lt;p&gt;随着React Navigation逐渐稳定，Navigator也被光荣的退休了。在React Native生态环境中需要一款可扩展且易于使用的导航组件，Navigator 自然胜任不了，这时React Native社区便孕育出了一个开源导航组件React Navigation。&lt;/p&gt;
@@ -415,14 +415,14 @@
             </description>
             <pubDate>Sun, 05 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/05/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/05/RN.html
             </guid>
         </item>
         
         <item>
             <title>04_reactnative布局</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/04/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/04/RN.html
             </link>
             <description>
                 &lt;p&gt;React Native 中布局采用的是FlexBox(弹性框)进行布局。&lt;/p&gt;
@@ -441,14 +441,14 @@
             </description>
             <pubDate>Sat, 04 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/04/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/04/RN.html
             </guid>
         </item>
         
         <item>
             <title>03_ReactNative基础知识</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/03/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/03/RN.html
             </link>
             <description>
                 &lt;p&gt;React 是facebook推出的开源JavaScript Library，它是一个用户组建用户界面的JavaScript库，让你以更简单的方式来创建交互式用户界面，它的出现让许多革新性的web观念开始流行起来，例如：Virtual DOM , Component , 声明式渲染等。&lt;/p&gt;
@@ -465,14 +465,14 @@
             </description>
             <pubDate>Fri, 03 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/03/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/03/RN.html
             </guid>
         </item>
         
         <item>
             <title>02_ES语法</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/02/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/02/RN.html
             </link>
             <description>
                 &lt;h1 id=&quot;1类&quot;&gt;1.类&lt;/h1&gt;
@@ -482,14 +482,14 @@
             </description>
             <pubDate>Thu, 02 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/02/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/02/RN.html
             </guid>
         </item>
         
         <item>
             <title>01_ReactNative实战学习</title>
             <link>
-                http://localhost:4000/reactnative/2020/01/01/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/01/RN.html
             </link>
             <description>
                 &lt;p&gt;第一节概览，我想等到后续app都写的差不多了，再反过来总结，这样会比较好些。&lt;/p&gt;
@@ -503,14 +503,14 @@
             </description>
             <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/reactnative/2020/01/01/RN.html
+                http://localhost:4000/hoo/reactnative/2020/01/01/RN.html
             </guid>
         </item>
         
         <item>
             <title>c-learning-002</title>
             <link>
-                http://localhost:4000/c/2019/01/02/C.html
+                http://localhost:4000/hoo/c/2019/01/02/C.html
             </link>
             <description>
                 &lt;h1 id=&quot;1保留字&quot;&gt;1，保留字&lt;/h1&gt;
@@ -519,14 +519,14 @@
             </description>
             <pubDate>Wed, 02 Jan 2019 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/c/2019/01/02/C.html
+                http://localhost:4000/hoo/c/2019/01/02/C.html
             </guid>
         </item>
         
         <item>
             <title>c-learning-001</title>
             <link>
-                http://localhost:4000/c/2019/01/01/C.html
+                http://localhost:4000/hoo/c/2019/01/01/C.html
             </link>
             <description>
                 &lt;h1 id=&quot;1hello-world&quot;&gt;1,Hello world&lt;/h1&gt;
@@ -536,14 +536,14 @@
             </description>
             <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/c/2019/01/01/C.html
+                http://localhost:4000/hoo/c/2019/01/01/C.html
             </guid>
         </item>
         
         <item>
             <title>002_定语从句</title>
             <link>
-                http://localhost:4000/grammar/2018/01/02/Grammar.html
+                http://localhost:4000/hoo/grammar/2018/01/02/Grammar.html
             </link>
             <description>
                 &lt;h1 id=&quot;定语从句&quot;&gt;定语从句&lt;/h1&gt;
@@ -566,14 +566,14 @@
             </description>
             <pubDate>Tue, 02 Jan 2018 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/grammar/2018/01/02/Grammar.html
+                http://localhost:4000/hoo/grammar/2018/01/02/Grammar.html
             </guid>
         </item>
         
         <item>
             <title>001_句子结构</title>
             <link>
-                http://localhost:4000/grammar/2018/01/01/Grammar.html
+                http://localhost:4000/hoo/grammar/2018/01/01/Grammar.html
             </link>
             <description>
                 &lt;h1 id=&quot;句子结构&quot;&gt;句子结构&lt;/h1&gt;
@@ -583,7 +583,7 @@
             </description>
             <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
             <guid>
-                http://localhost:4000/grammar/2018/01/01/Grammar.html
+                http://localhost:4000/hoo/grammar/2018/01/01/Grammar.html
             </guid>
         </item>
         
